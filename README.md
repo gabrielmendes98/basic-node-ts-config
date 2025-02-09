@@ -1,3 +1,3 @@
 # basic-node-ts-config
 
-Projeto para servir como ponto de partida de uma aplicação nodejs com typescript, hot reload e testes com jest.
+🚀 Project with basic configs to serve as a starting point for a nodejs application with typescript, hot reload and tests with jest.
